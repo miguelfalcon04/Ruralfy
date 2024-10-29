@@ -1,6 +1,5 @@
 package com.example.ruralfy.data.local.participant
 
-import com.example.ruralfy.data.Participant
 import javax.inject.Inject
 
 class ParticipantDefaultRepository

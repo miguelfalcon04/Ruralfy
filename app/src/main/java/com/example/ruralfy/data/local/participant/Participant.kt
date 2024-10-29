@@ -1,4 +1,4 @@
-package com.example.ruralfy.data
+package com.example.ruralfy.data.local.participant
 
 import java.util.UUID
 

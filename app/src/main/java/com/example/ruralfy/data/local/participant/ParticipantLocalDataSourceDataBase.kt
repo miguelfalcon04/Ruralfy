@@ -1,6 +1,5 @@
 package com.example.ruralfy.data.local.participant
 
-import com.example.ruralfy.data.Participant
 import com.example.ruralfy.data.toExternal
 import com.example.ruralfy.data.toLocalEntity
 import kotlinx.coroutines.Dispatchers
