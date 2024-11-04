@@ -1,5 +1,6 @@
 package com.example.ruralfy.data.local.participant
 
+import com.example.ruralfy.data.Expense
 import java.util.UUID
 
 data class Participant (
@@ -7,4 +8,5 @@ data class Participant (
     val name: String,
     val surname1: String,
     val surname2: String?,
+    val expenses: List<Expense>
 )
